@@ -1,0 +1,2 @@
+point1:- In package.json, we have added two scripts: "dev" for development using nodemon and "start" for production using node.
+in app.js, we have set up an Express application and exported it. In server.js, we have imported the app and started the server on port 3000.
